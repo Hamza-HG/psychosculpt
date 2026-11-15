@@ -1,0 +1,2210 @@
+{
+ "generated_by": "tools/build_covers.py",
+ "count": 27,
+ "max_height": 1200,
+ "records": [
+  {
+   "id": "jonathan-mind",
+   "title": "Dark Psychology",
+   "author": "Jonathan Mind",
+   "category": "Dark Psychology",
+   "cover": "out/covers/jonathan-mind.webp",
+   "thumb": "out/thumbs/jonathan-mind.webp",
+   "aspect": 0.6675,
+   "spineBg": "#371b2c",
+   "spineText": "#f7f3ea",
+   "accent": "#f00409",
+   "desc": "The definitive guide to understanding covert manipulation tactics, emotional control, and psychological influence. Delve deep into the mechanics of how people are controlled without their awareness — and how to protect yourself. This book decodes the hidden architecture of persuasion, fear-based influence, and covert aggression.",
+   "_size": [
+    801,
+    1200
+   ],
+   "_orig_size": [
+    905,
+    1355
+   ],
+   "_file": "jonathan-mind.jpg",
+   "_crop": {
+    "mode": "none",
+    "border": [
+     14,
+     7,
+     13
+    ]
+   },
+   "_tone": {
+    "meanL_before": 15.5,
+    "gamma": 0.8,
+    "gamma_range": [
+     0.8,
+     0.9
+    ],
+    "clahe": true,
+    "targetL": 44.0,
+    "meanL_after": 22.6,
+    "clip_pct": 0.0,
+    "sat_before": 150.26,
+    "sat_after": 149.86,
+    "sat_delta_pct": 0.27,
+    "chroma_scale": 2.7,
+    "blend": 1.0
+   },
+   "_upscale": null,
+   "_pad": null,
+   "_spine": {
+    "text_source": "white",
+    "contrast": 13.99,
+    "clusters": [
+     {
+      "hex": "#22111b",
+      "pct": 69.5,
+      "sat": 0.33000001311302185,
+      "L": 0.10000000149011612
+     },
+     {
+      "hex": "#f00409",
+      "pct": 20.7,
+      "sat": 0.9700000286102295,
+      "L": 0.47999998927116394
+     },
+     {
+      "hex": "#5f555d",
+      "pct": 5.0,
+      "sat": 0.05000000074505806,
+      "L": 0.3499999940395355
+     },
+     {
+      "hex": "#c2a1a0",
+      "pct": 4.7,
+      "sat": 0.2199999988079071,
+      "L": 0.6899999976158142
+     }
+    ]
+   }
+  },
+  {
+   "id": "read-people-like-a-book",
+   "title": "Read People Like a Book",
+   "author": "Patrick King",
+   "category": "Human Behavior",
+   "cover": "out/covers/read-people-like-a-book.webp",
+   "thumb": "out/thumbs/read-people-like-a-book.webp",
+   "aspect": 0.66083,
+   "spineBg": "#0f5268",
+   "spineText": "#f3de3f",
+   "accent": "#f3de3f",
+   "desc": "An incisive breakdown of how to decode body language, micro-expressions, verbal patterns, and behavioral cues to understand what people are truly thinking and feeling. Patrick King turns the science of human behavior into a practical, everyday skill that transforms how you read every room you enter.",
+   "_size": [
+    793,
+    1200
+   ],
+   "_orig_size": [
+    1014,
+    1534
+   ],
+   "_file": "read-people-like-a-book.jpg",
+   "_crop": {
+    "mode": "none",
+    "border": [
+     8,
+     65,
+     85
+    ]
+   },
+   "_tone": {
+    "meanL_before": 35.86,
+    "gamma": 0.8,
+    "gamma_range": [
+     0.8,
+     0.9
+    ],
+    "clahe": true,
+    "targetL": 44.0,
+    "meanL_after": 42.69,
+    "clip_pct": 0.0,
+    "sat_before": 193.14,
+    "sat_after": 203.36,
+    "sat_delta_pct": 5.29,
+    "chroma_scale": 1.2,
+    "blend": 1.0
+   },
+   "_upscale": null,
+   "_pad": null,
+   "_spine": {
+    "text_source": "accent",
+    "contrast": 6.32,
+    "clusters": [
+     {
+      "hex": "#08556f",
+      "pct": 74.9,
+      "sat": 0.8600000143051147,
+      "L": 0.23000000417232513
+     },
+     {
+      "hex": "#bfc1c2",
+      "pct": 9.1,
+      "sat": 0.019999999552965164,
+      "L": 0.7599999904632568
+     },
+     {
+      "hex": "#71696a",
+      "pct": 8.5,
+      "sat": 0.03999999910593033,
+      "L": 0.4300000071525574
+     },
+     {
+      "hex": "#f3de3f",
+      "pct": 7.4,
+      "sat": 0.8799999952316284,
+      "L": 0.6000000238418579
+     }
+    ]
+   }
+  },
+  {
+   "id": "laws-of-human-nature",
+   "title": "The Laws of Human Nature",
+   "author": "Robert Greene",
+   "category": "Human Nature",
+   "cover": "out/covers/laws-of-human-nature.webp",
+   "thumb": "out/thumbs/laws-of-human-nature.webp",
+   "aspect": 0.65083,
+   "spineBg": "#224193",
+   "spineText": "#f7f3ea",
+   "accent": "#f1423c",
+   "desc": "Robert Greene's magnum opus on human nature. Drawing from the lives of historical figures, this book reveals the 18 fundamental laws governing human behavior — from envy and conformity to narcissism and denial. Master these laws and you master the most complex force in your world: other people.",
+   "_size": [
+    781,
+    1200
+   ],
+   "_orig_size": [
+    1171,
+    1799
+   ],
+   "_file": "laws-of-human-nature.jpg",
+   "_crop": {
+    "mode": "none",
+    "border": [
+     232,
+     63,
+     58
+    ]
+   },
+   "_tone": {
+    "meanL_before": 41.66,
+    "gamma": 1.0,
+    "gamma_range": null,
+    "clahe": false,
+    "targetL": null,
+    "meanL_after": 41.66,
+    "clip_pct": 0.0,
+    "sat_before": 185.65,
+    "sat_after": 185.65,
+    "sat_delta_pct": 0.0,
+    "chroma_scale": 1.0,
+    "blend": 1.0
+   },
+   "_upscale": null,
+   "_pad": null,
+   "_spine": {
+    "text_source": "white",
+    "contrast": 8.45,
+    "clusters": [
+     {
+      "hex": "#224193",
+      "pct": 56.5,
+      "sat": 0.6200000047683716,
+      "L": 0.36000001430511475
+     },
+     {
+      "hex": "#f1423c",
+      "pct": 36.8,
+      "sat": 0.8600000143051147,
+      "L": 0.5899999737739563
+     },
+     {
+      "hex": "#d6b6b8",
+      "pct": 3.7,
+      "sat": 0.28999999165534973,
+      "L": 0.7799999713897705
+     },
+     {
+      "hex": "#797ea5",
+      "pct": 3.1,
+      "sat": 0.20000000298023224,
+      "L": 0.5600000023841858
+     }
+    ]
+   }
+  },
+  {
+   "id": "dark-psychology-and-manipulation",
+   "title": "Dark Psychology and Manipulation",
+   "author": "Various Authors",
+   "category": "Dark Psychology",
+   "cover": "out/covers/dark-psychology-and-manipulation.webp",
+   "thumb": "out/thumbs/dark-psychology-and-manipulation.webp",
+   "aspect": 0.7,
+   "spineBg": "#16293b",
+   "spineText": "#f7f3ea",
+   "accent": "#ce0a1a",
+   "desc": "A comprehensive anthology exploring the darkest corners of psychological influence. This collection covers gaslighting, emotional manipulation, covert narcissism, and social engineering. Essential reading for anyone wanting to recognize and defend against psychological tactics used in everyday relationships and power dynamics.",
+   "_size": [
+    840,
+    1200
+   ],
+   "_orig_size": [
+    998,
+    1426
+   ],
+   "_file": "dark-psychology-and-manipulation.jpg",
+   "_crop": {
+    "mode": "none",
+    "border": [
+     13,
+     24,
+     34
+    ]
+   },
+   "_tone": {
+    "meanL_before": 15.22,
+    "gamma": 0.8,
+    "gamma_range": [
+     0.8,
+     0.9
+    ],
+    "clahe": true,
+    "targetL": 44.0,
+    "meanL_after": 21.87,
+    "clip_pct": 0.0,
+    "sat_before": 137.12,
+    "sat_after": 140.31,
+    "sat_delta_pct": 2.33,
+    "chroma_scale": 1.6,
+    "blend": 1.0
+   },
+   "_upscale": null,
+   "_pad": null,
+   "_spine": {
+    "text_source": "white",
+    "contrast": 13.41,
+    "clusters": [
+     {
+      "hex": "#0e1a24",
+      "pct": 62.7,
+      "sat": 0.44999998807907104,
+      "L": 0.10000000149011612
+     },
+     {
+      "hex": "#1c4e6c",
+      "pct": 25.0,
+      "sat": 0.5899999737739563,
+      "L": 0.27000001072883606
+     },
+     {
+      "hex": "#95b4c8",
+      "pct": 9.8,
+      "sat": 0.3199999928474426,
+      "L": 0.6800000071525574
+     },
+     {
+      "hex": "#ce0a1a",
+      "pct": 2.5,
+      "sat": 0.9100000262260437,
+      "L": 0.41999998688697815
+     }
+    ]
+   }
+  },
+  {
+   "id": "dark-psychology-mind-games",
+   "title": "Dark Psychology Manipulation and Mind Games",
+   "author": "Various Authors",
+   "category": "Mind Games",
+   "cover": "out/covers/dark-psychology-mind-games.webp",
+   "thumb": "out/thumbs/dark-psychology-mind-games.webp",
+   "aspect": 0.64917,
+   "spineBg": "#15343f",
+   "spineText": "#f7f3ea",
+   "accent": "#b26622",
+   "desc": "A deep dive into the psychology of mind games — from subtle social power plays to full-scale psychological warfare. This anthology blends theoretical frameworks with real-world case studies, teaching you to identify manipulative patterns, protect your mental sovereignty, and understand the hidden games being played around you.",
+   "_size": [
+    779,
+    1200
+   ],
+   "_orig_size": [
+    972,
+    1497
+   ],
+   "_file": "dark-psychology-mind-games.jpg",
+   "_crop": {
+    "mode": "none",
+    "border": [
+     3,
+     40,
+     45
+    ]
+   },
+   "_tone": {
+    "meanL_before": 25.9,
+    "gamma": 0.8,
+    "gamma_range": [
+     0.8,
+     0.9
+    ],
+    "clahe": true,
+    "targetL": 44.0,
+    "meanL_after": 34.24,
+    "clip_pct": 0.007,
+    "sat_before": 174.0,
+    "sat_after": 173.35,
+    "sat_delta_pct": 0.37,
+    "chroma_scale": 1.6,
+    "blend": 1.0
+   },
+   "_upscale": null,
+   "_pad": null,
+   "_spine": {
+    "text_source": "white",
+    "contrast": 11.89,
+    "clusters": [
+     {
+      "hex": "#0e2128",
+      "pct": 46.1,
+      "sat": 0.49000000953674316,
+      "L": 0.10000000149011612
+     },
+     {
+      "hex": "#515d4a",
+      "pct": 24.9,
+      "sat": 0.11999999731779099,
+      "L": 0.33000001311302185
+     },
+     {
+      "hex": "#b26622",
+      "pct": 16.0,
+      "sat": 0.6800000071525574,
+      "L": 0.41999998688697815
+     },
+     {
+      "hex": "#dbd486",
+      "pct": 13.0,
+      "sat": 0.5400000214576721,
+      "L": 0.6899999976158142
+     }
+    ]
+   }
+  },
+  {
+   "id": "48-laws-of-power",
+   "title": "The 48 Laws of Power",
+   "author": "Robert Greene",
+   "category": "Power Dynamics",
+   "cover": "out/covers/48-laws-of-power.webp",
+   "thumb": "out/thumbs/48-laws-of-power.webp",
+   "aspect": 0.69083,
+   "spineBg": "#e47041",
+   "spineText": "#121212",
+   "accent": "#eee822",
+   "desc": "The modern classic that has shaped the minds of strategists, leaders, and thinkers worldwide. Robert Greene distills 3,000 years of history into 48 immutable laws of power — from 'Never Outshine the Master' to 'Crush Your Enemy Totally.' Brutal, insightful, and absolutely essential for anyone seeking to understand the true nature of social power.",
+   "_size": [
+    829,
+    1200
+   ],
+   "_orig_size": [
+    949,
+    1364
+   ],
+   "_file": "48-laws-of-power.jpg",
+   "_crop": {
+    "mode": "white",
+    "border": [
+     221,
+     221,
+     221
+    ],
+    "trim": [
+     13,
+     0,
+     14,
+     31
+    ]
+   },
+   "_tone": {
+    "meanL_before": 52.33,
+    "gamma": 1.0,
+    "gamma_range": null,
+    "clahe": false,
+    "targetL": null,
+    "meanL_after": 52.33,
+    "clip_pct": 0.0,
+    "sat_before": 180.63,
+    "sat_after": 180.52,
+    "sat_delta_pct": 0.06,
+    "chroma_scale": 1.0,
+    "blend": 1.0
+   },
+   "_upscale": null,
+   "_pad": null,
+   "_spine": {
+    "text_source": "near-black",
+    "contrast": 5.97,
+    "clusters": [
+     {
+      "hex": "#fb6629",
+      "pct": 62.9,
+      "sat": 0.9700000286102295,
+      "L": 0.5699999928474426
+     },
+     {
+      "hex": "#242f49",
+      "pct": 26.8,
+      "sat": 0.3400000035762787,
+      "L": 0.2199999988079071
+     },
+     {
+      "hex": "#bdb2a6",
+      "pct": 7.0,
+      "sat": 0.14000000059604645,
+      "L": 0.699999988079071
+     },
+     {
+      "hex": "#eee822",
+      "pct": 3.3,
+      "sat": 0.8600000143051147,
+      "L": 0.5299999713897705
+     }
+    ]
+   }
+  },
+  {
+   "id": "art-of-seduction",
+   "title": "The Art of Seduction",
+   "author": "Robert Greene",
+   "category": "Persuasion",
+   "cover": "out/covers/art-of-seduction.webp",
+   "thumb": "out/thumbs/art-of-seduction.webp",
+   "aspect": 0.71417,
+   "spineBg": "#373739",
+   "spineText": "#f7f3ea",
+   "accent": "#fd31c1",
+   "desc": "Which sort of seducer could you be? Siren? Rake? Cold Coquette? Star? Comedian? Charismatic? Or Saint? Charm, persuasion, and the ability to create illusions are some of the many dazzling gifts of the Seducer. This book explores the highly manipulative yet fascinating psychology of attraction and social influence.",
+   "_size": [
+    857,
+    1200
+   ],
+   "_orig_size": [
+    1294,
+    1812
+   ],
+   "_file": "art-of-seduction.png",
+   "_crop": {
+    "mode": "none",
+    "border": [
+     117,
+     91,
+     86
+    ]
+   },
+   "_tone": {
+    "meanL_before": 24.14,
+    "gamma": 0.8,
+    "gamma_range": [
+     0.8,
+     0.9
+    ],
+    "clahe": true,
+    "targetL": 44.0,
+    "meanL_after": 33.16,
+    "clip_pct": 0.0,
+    "sat_before": 75.09,
+    "sat_after": 74.03,
+    "sat_delta_pct": 1.4,
+    "chroma_scale": 1.2,
+    "blend": 1.0
+   },
+   "_upscale": null,
+   "_pad": null,
+   "_spine": {
+    "text_source": "white",
+    "contrast": 10.73,
+    "clusters": [
+     {
+      "hex": "#28282a",
+      "pct": 63.2,
+      "sat": 0.019999999552965164,
+      "L": 0.1599999964237213
+     },
+     {
+      "hex": "#fd31c1",
+      "pct": 29.4,
+      "sat": 0.9800000190734863,
+      "L": 0.5899999737739563
+     },
+     {
+      "hex": "#765a56",
+      "pct": 6.3,
+      "sat": 0.1599999964237213,
+      "L": 0.4000000059604645
+     },
+     {
+      "hex": "#e4decc",
+      "pct": 1.1,
+      "sat": 0.3100000023841858,
+      "L": 0.8500000238418579
+     }
+    ]
+   }
+  },
+  {
+   "id": "the-crowd",
+   "title": "The Crowd: A Study of the Popular Mind",
+   "author": "Gustave Le Bon",
+   "category": "Behavioral Science",
+   "cover": "out/covers/the-crowd.webp",
+   "thumb": "out/thumbs/the-crowd.webp",
+   "aspect": 0.64333,
+   "spineBg": "#f2e0d6",
+   "spineText": "#612726",
+   "accent": "#612726",
+   "desc": "First published in 1895, this foundational text explores the irrational nature of group behavior and crowd psychology. Le Bon analyzes how crowds differ from individuals, how leaders influence masses, and the collective sentiments of mobs, juries, and assemblies.",
+   "_size": [
+    772,
+    1200
+   ],
+   "_orig_size": [
+    1646,
+    2558
+   ],
+   "_file": "the-crowd.jpg",
+   "_crop": {
+    "mode": "none",
+    "border": [
+     143,
+     57,
+     47
+    ]
+   },
+   "_tone": {
+    "meanL_before": 61.26,
+    "gamma": 1.0,
+    "gamma_range": null,
+    "clahe": false,
+    "targetL": null,
+    "meanL_after": 61.26,
+    "clip_pct": 0.0,
+    "sat_before": 99.73,
+    "sat_after": 99.6,
+    "sat_delta_pct": 0.12,
+    "chroma_scale": 1.0,
+    "blend": 1.0
+   },
+   "_upscale": null,
+   "_pad": null,
+   "_spine": {
+    "text_source": "accent",
+    "contrast": 8.98,
+    "clusters": [
+     {
+      "hex": "#f2e0d6",
+      "pct": 33.6,
+      "sat": 0.5099999904632568,
+      "L": 0.8899999856948853
+     },
+     {
+      "hex": "#a15d50",
+      "pct": 23.6,
+      "sat": 0.33000001311302185,
+      "L": 0.4699999988079071
+     },
+     {
+      "hex": "#612726",
+      "pct": 22.3,
+      "sat": 0.4399999976158142,
+      "L": 0.25999999046325684
+     },
+     {
+      "hex": "#cea393",
+      "pct": 20.5,
+      "sat": 0.3799999952316284,
+      "L": 0.6899999976158142
+     }
+    ]
+   }
+  },
+  {
+   "id": "rape-of-the-mind",
+   "title": "The Rape of the Mind",
+   "author": "Joost A. M. Meerloo",
+   "category": "Mind Control",
+   "cover": "out/covers/rape-of-the-mind.webp",
+   "thumb": "out/thumbs/rape-of-the-mind.webp",
+   "aspect": 0.66417,
+   "spineBg": "#b03722",
+   "spineText": "#f9e975",
+   "accent": "#f9e975",
+   "desc": "An exploration of the methods used by totalitarian regimes to achieve mental submission. Dr. Meerloo examines brainwashing, 'menticide', and the unobtrusive coercion used in modern societies through the manipulation of language and the creation of a culture of fear.",
+   "_size": [
+    797,
+    1200
+   ],
+   "_orig_size": [
+    862,
+    1298
+   ],
+   "_file": "rape-of-the-mind.jpg",
+   "_crop": {
+    "mode": "none",
+    "border": [
+     217,
+     219,
+     197
+    ]
+   },
+   "_tone": {
+    "meanL_before": 69.02,
+    "gamma": 1.0,
+    "gamma_range": null,
+    "clahe": false,
+    "targetL": null,
+    "meanL_after": 69.02,
+    "clip_pct": 0.0,
+    "sat_before": 134.3,
+    "sat_after": 134.88,
+    "sat_delta_pct": 0.43,
+    "chroma_scale": 1.0,
+    "blend": 1.0
+   },
+   "_upscale": null,
+   "_pad": null,
+   "_spine": {
+    "text_source": "accent",
+    "contrast": 4.96,
+    "clusters": [
+     {
+      "hex": "#b03722",
+      "pct": 36.4,
+      "sat": 0.6800000071525574,
+      "L": 0.4099999964237213
+     },
+     {
+      "hex": "#f9e975",
+      "pct": 30.4,
+      "sat": 0.9100000262260437,
+      "L": 0.7200000286102295
+     },
+     {
+      "hex": "#dcd6c3",
+      "pct": 22.0,
+      "sat": 0.25999999046325684,
+      "L": 0.8100000023841858
+     },
+     {
+      "hex": "#6ea1cd",
+      "pct": 11.1,
+      "sat": 0.49000000953674316,
+      "L": 0.6200000047683716
+     }
+    ]
+   }
+  },
+  {
+   "id": "dark-triad",
+   "title": "The Dark Triad of Personality",
+   "author": "Minna Lyons",
+   "category": "Behavioral Science",
+   "cover": "out/covers/dark-triad.webp",
+   "thumb": "out/thumbs/dark-triad.webp",
+   "aspect": 0.69083,
+   "spineBg": "#292628",
+   "spineText": "#f0f0f0",
+   "accent": "#f0f0f0",
+   "desc": "A concise overview of the Dark Triad traits—Narcissism, Machiavellianism, and Psychopathy—and how they are expressed in everyday life. Discover their evolutionary origins, impact on society, and how to spot these traits in the people around you.",
+   "_size": [
+    829,
+    1200
+   ],
+   "_orig_size": [
+    998,
+    1444
+   ],
+   "_file": "dark-triad.jpg",
+   "_crop": {
+    "mode": "none",
+    "border": [
+     31,
+     31,
+     31
+    ]
+   },
+   "_tone": {
+    "meanL_before": 43.34,
+    "gamma": 1.0,
+    "gamma_range": null,
+    "clahe": false,
+    "targetL": null,
+    "meanL_after": 43.34,
+    "clip_pct": 0.0,
+    "sat_before": 10.31,
+    "sat_after": 10.31,
+    "sat_delta_pct": 0.0,
+    "chroma_scale": 1.0,
+    "blend": 1.0
+   },
+   "_upscale": null,
+   "_pad": null,
+   "_spine": {
+    "text_source": "accent",
+    "contrast": 13.14,
+    "clusters": [
+     {
+      "hex": "#191718",
+      "pct": 49.3,
+      "sat": 0.029999999329447746,
+      "L": 0.09000000357627869
+     },
+     {
+      "hex": "#f0f0f0",
+      "pct": 24.5,
+      "sat": 0.009999999776482582,
+      "L": 0.9399999976158142
+     },
+     {
+      "hex": "#b1b2b2",
+      "pct": 16.6,
+      "sat": 0.0,
+      "L": 0.699999988079071
+     },
+     {
+      "hex": "#686768",
+      "pct": 9.6,
+      "sat": 0.0,
+      "L": 0.4099999964237213
+     }
+    ]
+   }
+  },
+  {
+   "id": "get-anyone",
+   "title": "Get Anyone to Do Anything",
+   "author": "David J. Lieberman",
+   "category": "Persuasion",
+   "cover": "out/covers/get-anyone.webp",
+   "thumb": "out/thumbs/get-anyone.webp",
+   "aspect": 0.66563,
+   "spineBg": "#144b8d",
+   "spineText": "#f7f3ea",
+   "accent": "#e12a34",
+   "desc": "Grounded in human psychology, this book provides step-by-step techniques to gain an advantage in interpersonal situations. Learn how to get someone to change their mind, return a phone call, confide in you, and effectively stop verbal abuse.",
+   "_size": [
+    639,
+    960
+   ],
+   "_orig_size": [
+    639,
+    960
+   ],
+   "_file": "get-anyone.jpg",
+   "_crop": {
+    "mode": "none",
+    "border": [
+     11,
+     79,
+     164
+    ]
+   },
+   "_tone": {
+    "meanL_before": 41.76,
+    "gamma": 1.0,
+    "gamma_range": null,
+    "clahe": false,
+    "targetL": null,
+    "meanL_after": 41.76,
+    "clip_pct": 0.0,
+    "sat_before": 176.47,
+    "sat_after": 177.07,
+    "sat_delta_pct": 0.34,
+    "chroma_scale": 1.0,
+    "blend": 1.0
+   },
+   "_upscale": null,
+   "_pad": null,
+   "_spine": {
+    "text_source": "white",
+    "contrast": 7.83,
+    "clusters": [
+     {
+      "hex": "#0d4b94",
+      "pct": 62.5,
+      "sat": 0.8399999737739563,
+      "L": 0.3199999928474426
+     },
+     {
+      "hex": "#847e69",
+      "pct": 27.9,
+      "sat": 0.10999999940395355,
+      "L": 0.46000000834465027
+     },
+     {
+      "hex": "#d3dfe7",
+      "pct": 5.4,
+      "sat": 0.2800000011920929,
+      "L": 0.8700000047683716
+     },
+     {
+      "hex": "#e12a34",
+      "pct": 4.3,
+      "sat": 0.75,
+      "L": 0.5199999809265137
+     }
+    ]
+   }
+  },
+  {
+   "id": "art-psychological-warfare",
+   "title": "The Art of Psychological Warfare",
+   "author": "Christopher Kingler",
+   "category": "Mind Games",
+   "cover": "out/covers/art-psychological-warfare.webp",
+   "thumb": "out/thumbs/art-psychological-warfare.webp",
+   "aspect": 0.78033,
+   "spineBg": "#8d162d",
+   "spineText": "#f9ef7a",
+   "accent": "#f9ef7a",
+   "desc": "An introductory guide to psychological warfare, influence, deception, and defense against manipulation. Learn how to identify and protect yourself against unethical behaviors and the subtle tactics manipulators use to gain control.",
+   "_size": [
+    849,
+    1088
+   ],
+   "_orig_size": [
+    849,
+    1042
+   ],
+   "_file": "art-psychological-warfare.png",
+   "_crop": {
+    "mode": "none",
+    "border": [
+     145,
+     21,
+     47
+    ]
+   },
+   "_tone": {
+    "meanL_before": 45.24,
+    "gamma": 1.0,
+    "gamma_range": null,
+    "clahe": false,
+    "targetL": null,
+    "meanL_after": 45.24,
+    "clip_pct": 0.0,
+    "sat_before": 195.97,
+    "sat_after": 194.4,
+    "sat_delta_pct": 0.8,
+    "chroma_scale": 1.0,
+    "blend": 1.0
+   },
+   "_upscale": null,
+   "_pad": {
+    "target": 0.78,
+    "canvas": [
+     849,
+     1088
+    ],
+    "offset_y": 23,
+    "bands_pct": 4.23
+   },
+   "_spine": {
+    "text_source": "accent",
+    "contrast": 7.73,
+    "clusters": [
+     {
+      "hex": "#8d162d",
+      "pct": 66.2,
+      "sat": 0.7200000286102295,
+      "L": 0.3199999928474426
+     },
+     {
+      "hex": "#b05545",
+      "pct": 13.6,
+      "sat": 0.4399999976158142,
+      "L": 0.47999998927116394
+     },
+     {
+      "hex": "#f9ef7a",
+      "pct": 13.4,
+      "sat": 0.9200000166893005,
+      "L": 0.7300000190734863
+     },
+     {
+      "hex": "#d29d60",
+      "pct": 6.8,
+      "sat": 0.5600000023841858,
+      "L": 0.6000000238418579
+     }
+    ]
+   }
+  },
+  {
+   "id": "analyze-people-kingler",
+   "title": "How to Analyze People with Dark Psychology",
+   "author": "Christopher Kingler",
+   "category": "Dark Psychology",
+   "cover": "out/covers/analyze-people-kingler.webp",
+   "thumb": "out/thumbs/analyze-people-kingler.webp",
+   "aspect": 0.78028,
+   "spineBg": "#e0cb24",
+   "spineText": "#121212",
+   "accent": "#b01014",
+   "desc": "A compilation covering Dark Psychology, reading people, and psychological warfare. This guide aims to provide techniques for analyzing personality types, understanding non-verbal communication, and applying psychological strategies.",
+   "_size": [
+    728,
+    933
+   ],
+   "_orig_size": [
+    441,
+    537
+   ],
+   "_file": "analyze-people-kingler.png",
+   "_crop": {
+    "mode": "white",
+    "border": [
+     255,
+     255,
+     255
+    ],
+    "trim": [
+     10,
+     6,
+     11,
+     12
+    ]
+   },
+   "_tone": {
+    "meanL_before": 72.66,
+    "gamma": 1.0,
+    "gamma_range": null,
+    "clahe": false,
+    "targetL": null,
+    "meanL_after": 72.66,
+    "clip_pct": 0.0,
+    "sat_before": 240.33,
+    "sat_after": 238.71,
+    "sat_delta_pct": 0.67,
+    "chroma_scale": 1.0,
+    "blend": 1.0
+   },
+   "_upscale": {
+    "from": [
+     418,
+     517
+    ],
+    "to": [
+     728,
+     900
+    ]
+   },
+   "_pad": {
+    "target": 0.78,
+    "canvas": [
+     728,
+     933
+    ],
+    "offset_y": 16,
+    "bands_pct": 3.54
+   },
+   "_spine": {
+    "text_source": "near-black",
+    "contrast": 11.36,
+    "clusters": [
+     {
+      "hex": "#f8de0b",
+      "pct": 62.2,
+      "sat": 0.9399999976158142,
+      "L": 0.5099999904632568
+     },
+     {
+      "hex": "#ad8819",
+      "pct": 17.5,
+      "sat": 0.75,
+      "L": 0.38999998569488525
+     },
+     {
+      "hex": "#b01014",
+      "pct": 15.6,
+      "sat": 0.8299999833106995,
+      "L": 0.3799999952316284
+     },
+     {
+      "hex": "#3e3811",
+      "pct": 4.8,
+      "sat": 0.5699999928474426,
+      "L": 0.15000000596046448
+     }
+    ]
+   }
+  },
+  {
+   "id": "norton-ravin",
+   "title": "Dark Psychology: Mind Control and Manipulation",
+   "author": "Norton Ravin",
+   "category": "Mind Control",
+   "cover": "out/covers/norton-ravin.webp",
+   "thumb": "out/thumbs/norton-ravin.webp",
+   "aspect": 0.77962,
+   "spineBg": "#323132",
+   "spineText": "#e4d8d4",
+   "accent": "#e4d8d4",
+   "desc": "A foundational guide to understanding the dark triad, hypnosis, persuasion, and influence. Discover how to identify manipulators and learn basic defensive strategies to protect your mental autonomy from covert control.",
+   "_size": [
+    704,
+    903
+   ],
+   "_orig_size": [
+    446,
+    559
+   ],
+   "_file": "norton-ravin.png",
+   "_crop": {
+    "mode": "white",
+    "border": [
+     255,
+     255,
+     255
+    ],
+    "trim": [
+     9,
+     11,
+     17,
+     12
+    ]
+   },
+   "_tone": {
+    "meanL_before": 24.91,
+    "gamma": 0.8,
+    "gamma_range": [
+     0.8,
+     0.9
+    ],
+    "clahe": true,
+    "targetL": 44.0,
+    "meanL_after": 31.83,
+    "clip_pct": 0.0,
+    "sat_before": 14.93,
+    "sat_after": 15.22,
+    "sat_delta_pct": 1.94,
+    "chroma_scale": 1.2,
+    "blend": 1.0
+   },
+   "_upscale": {
+    "from": [
+     418,
+     534
+    ],
+    "to": [
+     704,
+     900
+    ]
+   },
+   "_pad": {
+    "target": 0.78,
+    "canvas": [
+     704,
+     903
+    ],
+    "offset_y": 1,
+    "bands_pct": 0.33
+   },
+   "_spine": {
+    "text_source": "accent",
+    "contrast": 9.3,
+    "clusters": [
+     {
+      "hex": "#323132",
+      "pct": 74.1,
+      "sat": 0.009999999776482582,
+      "L": 0.1899999976158142
+     },
+     {
+      "hex": "#736567",
+      "pct": 9.4,
+      "sat": 0.05999999865889549,
+      "L": 0.41999998688697815
+     },
+     {
+      "hex": "#ac9a99",
+      "pct": 8.5,
+      "sat": 0.10999999940395355,
+      "L": 0.6399999856948853
+     },
+     {
+      "hex": "#e4d8d4",
+      "pct": 8.0,
+      "sat": 0.23999999463558197,
+      "L": 0.8600000143051147
+     }
+    ]
+   }
+  },
+  {
+   "id": "joe-cooper",
+   "title": "Dark Psychology: The Only Practical Guide",
+   "author": "Joe Cooper",
+   "category": "Dark Psychology",
+   "cover": "out/covers/joe-cooper.webp",
+   "thumb": "out/thumbs/joe-cooper.webp",
+   "aspect": 0.67111,
+   "spineBg": "#ececea",
+   "spineText": "#111216",
+   "accent": "#111216",
+   "desc": "A practical exploration of emotional manipulation, persuasion, and dark psychology. This guide provides actionable insights for recognizing the signs of covert influence in both personal and professional environments.",
+   "_size": [
+    604,
+    900
+   ],
+   "_orig_size": [
+    426,
+    640
+   ],
+   "_file": "joe-cooper.jpg",
+   "_crop": {
+    "mode": "white",
+    "border": [
+     237,
+     237,
+     233
+    ],
+    "trim": [
+     0,
+     23,
+     24,
+     17
+    ]
+   },
+   "_tone": {
+    "meanL_before": 68.79,
+    "gamma": 1.0,
+    "gamma_range": null,
+    "clahe": false,
+    "targetL": null,
+    "meanL_after": 68.79,
+    "clip_pct": 0.0,
+    "sat_before": 24.63,
+    "sat_after": 25.54,
+    "sat_delta_pct": 3.72,
+    "chroma_scale": 1.0,
+    "blend": 1.0
+   },
+   "_upscale": {
+    "from": [
+     401,
+     598
+    ],
+    "to": [
+     604,
+     900
+    ]
+   },
+   "_pad": null,
+   "_spine": {
+    "text_source": "accent",
+    "contrast": 15.82,
+    "clusters": [
+     {
+      "hex": "#ececea",
+      "pct": 37.8,
+      "sat": 0.05000000074505806,
+      "L": 0.9200000166893005
+     },
+     {
+      "hex": "#babab2",
+      "pct": 33.6,
+      "sat": 0.05000000074505806,
+      "L": 0.7099999785423279
+     },
+     {
+      "hex": "#7a7777",
+      "pct": 15.2,
+      "sat": 0.009999999776482582,
+      "L": 0.4699999988079071
+     },
+     {
+      "hex": "#111216",
+      "pct": 13.4,
+      "sat": 0.12999999523162842,
+      "L": 0.07999999821186066
+     }
+    ]
+   }
+  },
+  {
+   "id": "dark-psychology-202",
+   "title": "Dark Psychology 202",
+   "author": "Michael Pace",
+   "category": "Dark Psychology",
+   "cover": "out/covers/dark-psychology-202.webp",
+   "thumb": "out/thumbs/dark-psychology-202.webp",
+   "aspect": 0.625,
+   "spineBg": "#1b1e20",
+   "spineText": "#f7f3ea",
+   "accent": "#3d444b",
+   "desc": "The advanced secrets of psychological warfare, Dark NLP, super manipulation, stealth persuasion, and cognitive behavioral therapy. Delve into the complex mechanisms behind advanced human psychological control.",
+   "_size": [
+    750,
+    1200
+   ],
+   "_orig_size": [
+    850,
+    1360
+   ],
+   "_file": "dark-psychology-202.jpg",
+   "_crop": {
+    "mode": "none",
+    "border": [
+     5,
+     6,
+     8
+    ]
+   },
+   "_tone": {
+    "meanL_before": 20.48,
+    "gamma": 0.8,
+    "gamma_range": [
+     0.8,
+     0.9
+    ],
+    "clahe": true,
+    "targetL": 44.0,
+    "meanL_after": 26.17,
+    "clip_pct": 0.001,
+    "sat_before": 57.99,
+    "sat_after": 59.24,
+    "sat_delta_pct": 2.14,
+    "chroma_scale": 1.6,
+    "blend": 1.0
+   },
+   "_upscale": null,
+   "_pad": null,
+   "_spine": {
+    "text_source": "white",
+    "contrast": 15.13,
+    "clusters": [
+     {
+      "hex": "#0d0f10",
+      "pct": 51.2,
+      "sat": 0.10000000149011612,
+      "L": 0.05999999865889549
+     },
+     {
+      "hex": "#3d444b",
+      "pct": 22.3,
+      "sat": 0.10000000149011612,
+      "L": 0.27000001072883606
+     },
+     {
+      "hex": "#75858c",
+      "pct": 14.8,
+      "sat": 0.09000000357627869,
+      "L": 0.5
+     },
+     {
+      "hex": "#cacbc3",
+      "pct": 11.6,
+      "sat": 0.07999999821186066,
+      "L": 0.7799999713897705
+     }
+    ]
+   }
+  },
+  {
+   "id": "manipulation-bible",
+   "title": "Dark Psychology and Manipulation Bible",
+   "author": "Tod Brown",
+   "category": "Dark Psychology",
+   "cover": "out/covers/manipulation-bible.webp",
+   "thumb": "out/thumbs/manipulation-bible.webp",
+   "aspect": 0.72,
+   "spineBg": "#292929",
+   "spineText": "#f7f3ea",
+   "accent": "#524848",
+   "desc": "A massive compendium covering multiple facets of dark psychology, from reading body language and NLP to recognizing toxic behavior. A comprehensive toolkit for understanding the darker aspects of human nature.",
+   "_size": [
+    864,
+    1200
+   ],
+   "_orig_size": [
+    1978,
+    2560
+   ],
+   "_file": "manipulation-bible.jpg",
+   "_crop": {
+    "mode": "white",
+    "border": [
+     255,
+     255,
+     255
+    ],
+    "trim": [
+     44,
+     447,
+     0,
+     454
+    ]
+   },
+   "_tone": {
+    "meanL_before": 48.51,
+    "gamma": 1.0,
+    "gamma_range": null,
+    "clahe": false,
+    "targetL": null,
+    "meanL_after": 48.51,
+    "clip_pct": 0.0,
+    "sat_before": 6.12,
+    "sat_after": 6.12,
+    "sat_delta_pct": 0.0,
+    "chroma_scale": 1.0,
+    "blend": 1.0
+   },
+   "_upscale": null,
+   "_pad": {
+    "target": 0.72,
+    "canvas": [
+     1933,
+     2685
+    ],
+    "offset_y": 514,
+    "bands_pct": 38.29
+   },
+   "_spine": {
+    "text_source": "white",
+    "contrast": 13.14,
+    "clusters": [
+     {
+      "hex": "#1a1a1a",
+      "pct": 30.2,
+      "sat": 0.0,
+      "L": 0.10000000149011612
+     },
+     {
+      "hex": "#868686",
+      "pct": 29.8,
+      "sat": 0.0,
+      "L": 0.5299999713897705
+     },
+     {
+      "hex": "#efefef",
+      "pct": 20.9,
+      "sat": 0.0,
+      "L": 0.9399999976158142
+     },
+     {
+      "hex": "#524848",
+      "pct": 19.1,
+      "sat": 0.05999999865889549,
+      "L": 0.30000001192092896
+     }
+    ]
+   }
+  },
+  {
+   "id": "gaslighting",
+   "title": "Gaslighting - 4 Books in 1",
+   "author": "Various Authors",
+   "category": "Mind Control",
+   "cover": "out/covers/gaslighting.webp",
+   "thumb": "out/thumbs/gaslighting.webp",
+   "aspect": 0.76,
+   "spineBg": "#faf9f9",
+   "spineText": "#6e504b",
+   "accent": "#6e504b",
+   "desc": "A definitive 4-in-1 guide exploring the gaslighting effect, emotional manipulation, and recovery from narcissistic abuse. Learn how to break free from toxic relationships, master your emotions, and regain your reality.",
+   "_size": [
+    912,
+    1200
+   ],
+   "_orig_size": [
+    1034,
+    1551
+   ],
+   "_file": "gaslighting.png",
+   "_crop": {
+    "mode": "white",
+    "border": [
+     255,
+     255,
+     255
+    ],
+    "trim": [
+     15,
+     159,
+     14,
+     70
+    ]
+   },
+   "_tone": {
+    "meanL_before": 57.13,
+    "gamma": 1.0,
+    "gamma_range": null,
+    "clahe": false,
+    "targetL": null,
+    "meanL_after": 57.13,
+    "clip_pct": 0.0,
+    "sat_before": 18.08,
+    "sat_after": 19.63,
+    "sat_delta_pct": 8.58,
+    "chroma_scale": 1.0,
+    "blend": 1.0
+   },
+   "_upscale": null,
+   "_pad": null,
+   "_spine": {
+    "text_source": "accent",
+    "contrast": 6.86,
+    "clusters": [
+     {
+      "hex": "#faf9f9",
+      "pct": 42.6,
+      "sat": 0.09000000357627869,
+      "L": 0.9800000190734863
+     },
+     {
+      "hex": "#101112",
+      "pct": 31.7,
+      "sat": 0.03999999910593033,
+      "L": 0.07000000029802322
+     },
+     {
+      "hex": "#6e504b",
+      "pct": 14.0,
+      "sat": 0.1899999976158142,
+      "L": 0.36000001430511475
+     },
+     {
+      "hex": "#b2a29d",
+      "pct": 11.7,
+      "sat": 0.11999999731779099,
+      "L": 0.6600000262260437
+     }
+    ]
+   }
+  },
+  {
+   "id": "manipulation-techniques",
+   "title": "Manipulation Techniques",
+   "author": "David Cliff Moore",
+   "category": "Persuasion",
+   "cover": "out/covers/manipulation-techniques.webp",
+   "thumb": "out/thumbs/manipulation-techniques.webp",
+   "aspect": 0.63333,
+   "spineBg": "#dedede",
+   "spineText": "#a70a0a",
+   "accent": "#a70a0a",
+   "desc": "Discover how to understand and influence people using mind control, subliminal persuasion, self-discipline, NLP, and body language. Features 101 tips, tricks, and dark psychology secrets.",
+   "_size": [
+    760,
+    1200
+   ],
+   "_orig_size": [
+    1280,
+    1920
+   ],
+   "_file": "manipulation-techniques.png",
+   "_crop": {
+    "mode": "white",
+    "border": [
+     228,
+     228,
+     228
+    ],
+    "trim": [
+     72,
+     63,
+     70,
+     62
+    ]
+   },
+   "_tone": {
+    "meanL_before": 78.58,
+    "gamma": 1.4,
+    "gamma_range": [
+     1.05,
+     1.4
+    ],
+    "clahe": false,
+    "targetL": 66.0,
+    "meanL_after": 75.86,
+    "clip_pct": 0.0,
+    "sat_before": 39.08,
+    "sat_after": 39.56,
+    "sat_delta_pct": 1.22,
+    "chroma_scale": 1.0,
+    "blend": 0.539
+   },
+   "_upscale": null,
+   "_pad": null,
+   "_spine": {
+    "text_source": "accent",
+    "contrast": 5.8,
+    "clusters": [
+     {
+      "hex": "#dedede",
+      "pct": 73.3,
+      "sat": 0.0,
+      "L": 0.8700000047683716
+     },
+     {
+      "hex": "#a70a0a",
+      "pct": 13.7,
+      "sat": 0.8899999856948853,
+      "L": 0.3499999940395355
+     },
+     {
+      "hex": "#b18585",
+      "pct": 7.8,
+      "sat": 0.2199999988079071,
+      "L": 0.6100000143051147
+     },
+     {
+      "hex": "#464646",
+      "pct": 5.1,
+      "sat": 0.0,
+      "L": 0.27000001072883606
+     }
+    ]
+   }
+  },
+  {
+   "id": "reading-body-language",
+   "title": "Reading Body Language & Persuasion Techniques",
+   "author": "Various Authors",
+   "category": "Behavioral Science",
+   "cover": "out/covers/reading-body-language.webp",
+   "thumb": "out/thumbs/reading-body-language.webp",
+   "aspect": 0.70667,
+   "spineBg": "#868488",
+   "spineText": "#121212",
+   "accent": "#a371da",
+   "desc": "The ultimate guide to analyzing people. Master the art of reading micro-expressions, understanding non-verbal cues, and deploying persuasion techniques to effectively navigate social dynamics.",
+   "_size": [
+    848,
+    1200
+   ],
+   "_orig_size": [
+    922,
+    1384
+   ],
+   "_file": "reading-body-language.png",
+   "_crop": {
+    "mode": "white",
+    "border": [
+     255,
+     255,
+     255
+    ],
+    "trim": [
+     0,
+     30,
+     0,
+     47
+    ]
+   },
+   "_tone": {
+    "meanL_before": 66.82,
+    "gamma": 1.0,
+    "gamma_range": null,
+    "clahe": false,
+    "targetL": null,
+    "meanL_after": 66.82,
+    "clip_pct": 0.0,
+    "sat_before": 26.34,
+    "sat_after": 26.37,
+    "sat_delta_pct": 0.14,
+    "chroma_scale": 1.0,
+    "blend": 1.0
+   },
+   "_upscale": null,
+   "_pad": null,
+   "_spine": {
+    "text_source": "near-black",
+    "contrast": 5.06,
+    "clusters": [
+     {
+      "hex": "#868488",
+      "pct": 49.1,
+      "sat": 0.019999999552965164,
+      "L": 0.5299999713897705
+     },
+     {
+      "hex": "#faf9fb",
+      "pct": 31.5,
+      "sat": 0.20999999344348907,
+      "L": 0.9800000190734863
+     },
+     {
+      "hex": "#a371da",
+      "pct": 10.8,
+      "sat": 0.5899999737739563,
+      "L": 0.6499999761581421
+     },
+     {
+      "hex": "#573665",
+      "pct": 8.7,
+      "sat": 0.3100000023841858,
+      "L": 0.30000001192092896
+     }
+    ]
+   }
+  },
+  {
+   "id": "secrets-and-manipulation",
+   "title": "Dark Psychology Secrets and Manipulation",
+   "author": "William Cooper",
+   "category": "Dark Psychology",
+   "cover": "out/covers/secrets-and-manipulation.webp",
+   "thumb": "out/thumbs/secrets-and-manipulation.webp",
+   "aspect": 0.78,
+   "spineBg": "#481512",
+   "spineText": "#f9a703",
+   "accent": "#f9a703",
+   "desc": "A guide to influencing people with human psychology. Learn how to decode the hidden intentions of others, protect yourself against emotional predators, and utilize psychological principles to your advantage.",
+   "_size": [
+    936,
+    1200
+   ],
+   "_orig_size": [
+    945,
+    1181
+   ],
+   "_file": "secrets-and-manipulation.png",
+   "_crop": {
+    "mode": "none",
+    "border": [
+     47,
+     19,
+     1
+    ]
+   },
+   "_tone": {
+    "meanL_before": 23.86,
+    "gamma": 0.8,
+    "gamma_range": [
+     0.8,
+     0.9
+    ],
+    "clahe": true,
+    "targetL": 44.0,
+    "meanL_after": 29.06,
+    "clip_pct": 0.001,
+    "sat_before": 178.89,
+    "sat_after": 178.84,
+    "sat_delta_pct": 0.03,
+    "chroma_scale": 2.4,
+    "blend": 1.0
+   },
+   "_upscale": null,
+   "_pad": {
+    "target": 0.78,
+    "canvas": [
+     945,
+     1212
+    ],
+    "offset_y": 15,
+    "bands_pct": 2.56
+   },
+   "_spine": {
+    "text_source": "accent",
+    "contrast": 7.59,
+    "clusters": [
+     {
+      "hex": "#2f0e0c",
+      "pct": 62.4,
+      "sat": 0.6000000238418579,
+      "L": 0.11999999731779099
+     },
+     {
+      "hex": "#aa2b16",
+      "pct": 18.6,
+      "sat": 0.7699999809265137,
+      "L": 0.3799999952316284
+     },
+     {
+      "hex": "#f9a703",
+      "pct": 15.2,
+      "sat": 0.9700000286102295,
+      "L": 0.49000000953674316
+     },
+     {
+      "hex": "#ded7d0",
+      "pct": 3.7,
+      "sat": 0.17000000178813934,
+      "L": 0.8399999737739563
+     }
+    ]
+   }
+  },
+  {
+   "id": "david-covert-mind",
+   "title": "Dark Psychology: The Ultimate Guide",
+   "author": "David Covert Mind",
+   "category": "Dark Psychology",
+   "cover": "out/covers/david-covert-mind.webp",
+   "thumb": "out/thumbs/david-covert-mind.webp",
+   "aspect": 0.62,
+   "spineBg": "#322f2f",
+   "spineText": "#f7f3ea",
+   "accent": "#e86336",
+   "_size": [
+    744,
+    1200
+   ],
+   "_orig_size": [
+    992,
+    1600
+   ],
+   "_file": "david-covert-mind.jpg",
+   "_crop": {
+    "mode": "none",
+    "border": [
+     17,
+     17,
+     17
+    ]
+   },
+   "_tone": {
+    "meanL_before": 15.69,
+    "gamma": 0.8,
+    "gamma_range": [
+     0.8,
+     0.9
+    ],
+    "clahe": true,
+    "targetL": 44.0,
+    "meanL_after": 23.52,
+    "clip_pct": 0.0,
+    "sat_before": 33.05,
+    "sat_after": 33.19,
+    "sat_delta_pct": 0.43,
+    "chroma_scale": 1.2,
+    "blend": 1.0
+   },
+   "_upscale": null,
+   "_pad": null,
+   "_spine": {
+    "text_source": "white",
+    "contrast": 11.98,
+    "clusters": [
+     {
+      "hex": "#222020",
+      "pct": 78.4,
+      "sat": 0.029999999329447746,
+      "L": 0.12999999523162842
+     },
+     {
+      "hex": "#e86336",
+      "pct": 8.5,
+      "sat": 0.800000011920929,
+      "L": 0.5600000023841858
+     },
+     {
+      "hex": "#757677",
+      "pct": 8.5,
+      "sat": 0.009999999776482582,
+      "L": 0.46000000834465027
+     },
+     {
+      "hex": "#d0d3d4",
+      "pct": 4.6,
+      "sat": 0.05000000074505806,
+      "L": 0.8199999928474426
+     }
+    ]
+   }
+  },
+  {
+   "id": "mastery-covert",
+   "title": "Dark Psychology Mastery: 3 Books in 1",
+   "author": "David Covert Mind",
+   "category": "Dark Psychology",
+   "cover": "out/covers/mastery-covert.webp",
+   "thumb": "out/thumbs/mastery-covert.webp",
+   "aspect": 0.665,
+   "spineBg": "#58141c",
+   "spineText": "#ebb201",
+   "accent": "#ebb201",
+   "_size": [
+    798,
+    1200
+   ],
+   "_orig_size": [
+    892,
+    1342
+   ],
+   "_file": "mastery-covert.jpg",
+   "_crop": {
+    "mode": "none",
+    "border": [
+     39,
+     6,
+     7
+    ]
+   },
+   "_tone": {
+    "meanL_before": 22.33,
+    "gamma": 0.8,
+    "gamma_range": [
+     0.8,
+     0.9
+    ],
+    "clahe": true,
+    "targetL": 44.0,
+    "meanL_after": 29.44,
+    "clip_pct": 0.0,
+    "sat_before": 206.91,
+    "sat_after": 207.1,
+    "sat_delta_pct": 0.09,
+    "chroma_scale": 2.0,
+    "blend": 1.0
+   },
+   "_upscale": null,
+   "_pad": null,
+   "_spine": {
+    "text_source": "accent",
+    "contrast": 7.12,
+    "clusters": [
+     {
+      "hex": "#3f0e14",
+      "pct": 65.1,
+      "sat": 0.6299999952316284,
+      "L": 0.15000000596046448
+     },
+     {
+      "hex": "#ac310c",
+      "pct": 17.0,
+      "sat": 0.8700000047683716,
+      "L": 0.36000001430511475
+     },
+     {
+      "hex": "#ebb201",
+      "pct": 9.5,
+      "sat": 0.9900000095367432,
+      "L": 0.46000000834465027
+     },
+     {
+      "hex": "#b5b7bd",
+      "pct": 8.3,
+      "sat": 0.05000000074505806,
+      "L": 0.7200000286102295
+     }
+    ]
+   }
+  },
+  {
+   "id": "mastery-smith",
+   "title": "Dark Psychology Mastery",
+   "author": "Mark Smith",
+   "category": "Dark Psychology",
+   "cover": "out/covers/mastery-smith.webp",
+   "thumb": "out/thumbs/mastery-smith.webp",
+   "aspect": 0.66728,
+   "spineBg": "#1a1918",
+   "spineText": "#f7f3ea",
+   "accent": "#cb4a46",
+   "_size": [
+    730,
+    1094
+   ],
+   "_orig_size": [
+    730,
+    1094
+   ],
+   "_file": "mastery-smith.jpg",
+   "_crop": {
+    "mode": "none",
+    "border": [
+     2,
+     2,
+     2
+    ]
+   },
+   "_tone": {
+    "meanL_before": 12.7,
+    "gamma": 0.8,
+    "gamma_range": [
+     0.8,
+     0.9
+    ],
+    "clahe": true,
+    "targetL": 44.0,
+    "meanL_after": 17.25,
+    "clip_pct": 0.0,
+    "sat_before": 40.38,
+    "sat_after": 44.15,
+    "sat_delta_pct": 9.33,
+    "chroma_scale": 1.0,
+    "blend": 1.0
+   },
+   "_upscale": null,
+   "_pad": null,
+   "_spine": {
+    "text_source": "white",
+    "contrast": 15.85,
+    "clusters": [
+     {
+      "hex": "#0a0a09",
+      "pct": 70.1,
+      "sat": 0.05000000074505806,
+      "L": 0.03999999910593033
+     },
+     {
+      "hex": "#615150",
+      "pct": 12.7,
+      "sat": 0.09000000357627869,
+      "L": 0.3499999940395355
+     },
+     {
+      "hex": "#b4aba7",
+      "pct": 9.8,
+      "sat": 0.07999999821186066,
+      "L": 0.6800000071525574
+     },
+     {
+      "hex": "#cb4a46",
+      "pct": 7.4,
+      "sat": 0.5600000023841858,
+      "L": 0.5400000214576721
+     }
+    ]
+   }
+  },
+  {
+   "id": "analyze-people-griffith",
+   "title": "How to Analyze People with Dark Psychology: 6 Books in 1",
+   "author": "Joseph Griffith",
+   "category": "Human Behavior",
+   "cover": "out/covers/analyze-people-griffith.webp",
+   "thumb": "out/thumbs/analyze-people-griffith.webp",
+   "aspect": 0.6375,
+   "spineBg": "#302f2f",
+   "spineText": "#e8dfd2",
+   "accent": "#e8dfd2",
+   "_size": [
+    765,
+    1200
+   ],
+   "_orig_size": [
+    856,
+    1342
+   ],
+   "_file": "analyze-people-griffith.jpg",
+   "_crop": {
+    "mode": "none",
+    "border": [
+     38,
+     36,
+     35
+    ]
+   },
+   "_tone": {
+    "meanL_before": 33.53,
+    "gamma": 0.8,
+    "gamma_range": [
+     0.8,
+     0.9
+    ],
+    "clahe": true,
+    "targetL": 44.0,
+    "meanL_after": 39.07,
+    "clip_pct": 0.0,
+    "sat_before": 27.29,
+    "sat_after": 27.84,
+    "sat_delta_pct": 2.0,
+    "chroma_scale": 1.0,
+    "blend": 1.0
+   },
+   "_upscale": null,
+   "_pad": null,
+   "_spine": {
+    "text_source": "accent",
+    "contrast": 10.12,
+    "clusters": [
+     {
+      "hex": "#202020",
+      "pct": 37.1,
+      "sat": 0.009999999776482582,
+      "L": 0.12999999523162842
+     },
+     {
+      "hex": "#575453",
+      "pct": 32.0,
+      "sat": 0.019999999552965164,
+      "L": 0.33000001311302185
+     },
+     {
+      "hex": "#ab8e6f",
+      "pct": 17.1,
+      "sat": 0.25999999046325684,
+      "L": 0.550000011920929
+     },
+     {
+      "hex": "#e8dfd2",
+      "pct": 13.8,
+      "sat": 0.3100000023841858,
+      "L": 0.8700000047683716
+     }
+    ]
+   }
+  },
+  {
+   "id": "manipulation-jake-smith",
+   "title": "Manipulation: Body Language, Dark Psychology, NLP, Mind Control",
+   "author": "Jake Smith",
+   "category": "Manipulation",
+   "cover": "out/covers/manipulation-jake-smith.webp",
+   "thumb": "out/thumbs/manipulation-jake-smith.webp",
+   "aspect": 0.625,
+   "spineBg": "#fbfbfb",
+   "spineText": "#654b49",
+   "accent": "#654b49",
+   "_size": [
+    750,
+    1200
+   ],
+   "_orig_size": [
+    1123,
+    1797
+   ],
+   "_file": "manipulation-jake-smith.png",
+   "_crop": {
+    "mode": "none",
+    "border": [
+     1,
+     1,
+     1
+    ]
+   },
+   "_tone": {
+    "meanL_before": 82.15,
+    "gamma": 1.4,
+    "gamma_range": [
+     1.05,
+     1.4
+    ],
+    "clahe": false,
+    "targetL": 66.0,
+    "meanL_after": 81.21,
+    "clip_pct": 0.0,
+    "sat_before": 7.76,
+    "sat_after": 7.76,
+    "sat_delta_pct": 0.0,
+    "chroma_scale": 1.0,
+    "blend": 0.539
+   },
+   "_upscale": null,
+   "_pad": null,
+   "_spine": {
+    "text_source": "accent",
+    "contrast": 7.64,
+    "clusters": [
+     {
+      "hex": "#fbfbfb",
+      "pct": 71.0,
+      "sat": 0.019999999552965164,
+      "L": 0.9800000190734863
+     },
+     {
+      "hex": "#a9a4a0",
+      "pct": 11.9,
+      "sat": 0.05000000074505806,
+      "L": 0.6499999761581421
+     },
+     {
+      "hex": "#030303",
+      "pct": 8.8,
+      "sat": 0.03999999910593033,
+      "L": 0.009999999776482582
+     },
+     {
+      "hex": "#654b49",
+      "pct": 8.4,
+      "sat": 0.1599999964237213,
+      "L": 0.3400000035762787
+     }
+    ]
+   }
+  },
+  {
+   "id": "louis-convert",
+   "title": "Dark Psychology: 3 Books in 1",
+   "author": "Louis Convert",
+   "category": "Dark Psychology",
+   "cover": "out/covers/louis-convert.webp",
+   "thumb": "out/thumbs/louis-convert.webp",
+   "aspect": 0.66563,
+   "spineBg": "#fcfbfb",
+   "spineText": "#751c1e",
+   "accent": "#751c1e",
+   "_size": [
+    426,
+    640
+   ],
+   "_orig_size": [
+    426,
+    640
+   ],
+   "_file": "louis-convert.jpg",
+   "_crop": {
+    "mode": "none",
+    "border": [
+     128,
+     59,
+     60
+    ]
+   },
+   "_tone": {
+    "meanL_before": 55.78,
+    "gamma": 1.0,
+    "gamma_range": null,
+    "clahe": false,
+    "targetL": null,
+    "meanL_after": 55.78,
+    "clip_pct": 0.0,
+    "sat_before": 40.01,
+    "sat_after": 40.0,
+    "sat_delta_pct": 0.02,
+    "chroma_scale": 1.0,
+    "blend": 1.0
+   },
+   "_upscale": null,
+   "_pad": null,
+   "_spine": {
+    "text_source": "accent",
+    "contrast": 10.47,
+    "clusters": [
+     {
+      "hex": "#fcfbfb",
+      "pct": 40.7,
+      "sat": 0.07999999821186066,
+      "L": 0.9900000095367432
+     },
+     {
+      "hex": "#232423",
+      "pct": 32.4,
+      "sat": 0.0,
+      "L": 0.14000000059604645
+     },
+     {
+      "hex": "#751c1e",
+      "pct": 16.4,
+      "sat": 0.6200000047683716,
+      "L": 0.2800000011920929
+     },
+     {
+      "hex": "#ab9393",
+      "pct": 10.4,
+      "sat": 0.12999999523162842,
+      "L": 0.6200000047683716
+     }
+    ]
+   }
+  }
+ ]
+}
